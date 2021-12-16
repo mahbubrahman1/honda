@@ -1,9 +1,9 @@
-.regular-text {
+/* .regular-text {
     font-family: 'Poppins', sans-serif;
 }
 .bold-text {
     font-family: 'Poppins', sans-serif;
-}
+} */
 .banner-color {
     background-color: #305361;
 }
@@ -14,14 +14,18 @@
     color: #E76F51;
 }
 .custom-bg-color {
-    color: #E76F51;
+    color: #E76F51; 
 }
 body {
     overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
 }
 .btn-outline-danger {
     color: #E76F51;
 }
 .custom-nav-color {
     background-color: #305361;
+}
+.light-font-style {
+    font-family: 'Poppins', sans-serif; 
 }
