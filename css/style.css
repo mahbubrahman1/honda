@@ -7,3 +7,21 @@
 .banner-color {
     background-color: #305361;
 }
+.custom-button-color {
+    background-color: #E76F51;
+}
+.custom-text-color {
+    color: #E76F51;
+}
+.custom-bg-color {
+    color: #E76F51;
+}
+body {
+    overflow-x: hidden;
+}
+.btn-outline-danger {
+    color: #E76F51;
+}
+.custom-nav-color {
+    background-color: #305361;
+}
