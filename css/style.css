@@ -29,3 +29,25 @@ body {
 .light-font-style {
     font-family: 'Poppins', sans-serif; 
 }
+.black-white-photo {
+    filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1);
+}
+.custom-button {
+    border: 2px solid #E76F51;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4.5px;
+    padding-bottom: 4.5px;
+    border-radius: 5px;
+}
+.custom-button:hover {
+    background-color: #E76F51;
+    color: white;
+    transition: 0.3s;
+}
+.custom-padding {
+    padding-bottom: 9%;
+}
